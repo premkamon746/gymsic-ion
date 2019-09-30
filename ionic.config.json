@@ -1,0 +1,7 @@
+{
+  "name": "gymsic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
